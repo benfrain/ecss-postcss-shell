@@ -1,5 +1,5 @@
 {
-  "name": "Basic PostCSS tooling for ECSS.io",
+  "name": "ecss-postcss-shell",
   "version": "1.0.0",
   "description": "Basic ECSS.io tooling example",
   "main": "gulpfile.js",
