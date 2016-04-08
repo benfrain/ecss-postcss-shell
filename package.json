@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Basic ECSS.io tooling example",
   "main": "gulpfile.js",
+  "repository": "https://github.com/benfrain/ecss-postcss-shell.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
