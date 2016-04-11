@@ -1,5 +1,5 @@
 # ecss-postcss-shell
-Basic PostCSS setup to facilitate [PostCSS](http://postcss.org) and [Stylelint](http://stylelint.io) with a CSS codebase – as described at [http://ECSS.io](http://ecss.io). The CSS tooling includes autopreficer and plugins for: variables, mixins, colour functions and nesting. Source maps are also built in and you'll get a notification UI when the CSS is generated.
+Basic PostCSS setup to facilitate [PostCSS](http://postcss.org) and [Stylelint](http://stylelint.io) with a CSS codebase – as described at [http://ECSS.io](http://ecss.io). The CSS tooling includes autoprefixer and plugins for: variables, mixins, colour functions and nesting. Source maps are also built in and you'll get a notification UI when the CSS is generated.
 
 Stylelint is configured here with my own preferences for Stylelint v5.3. Additional custom Stylelint plugins mentioned in the book are not included here (yet).
 
